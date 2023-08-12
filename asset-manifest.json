@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuizWebsiteMui/static/css/main.abd64e84.css",
+    "main.js": "/QuizWebsiteMui/static/js/main.17bd64a1.js",
+    "static/js/498.6715cae5.chunk.js": "/QuizWebsiteMui/static/js/498.6715cae5.chunk.js",
+    "static/js/703.c2a2eae2.chunk.js": "/QuizWebsiteMui/static/js/703.c2a2eae2.chunk.js",
+    "static/js/261.5f259dc1.chunk.js": "/QuizWebsiteMui/static/js/261.5f259dc1.chunk.js",
+    "static/js/787.68bbb5b0.chunk.js": "/QuizWebsiteMui/static/js/787.68bbb5b0.chunk.js",
+    "static/media/logo.svg": "/QuizWebsiteMui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/QuizWebsiteMui/index.html",
+    "main.abd64e84.css.map": "/QuizWebsiteMui/static/css/main.abd64e84.css.map",
+    "main.17bd64a1.js.map": "/QuizWebsiteMui/static/js/main.17bd64a1.js.map",
+    "498.6715cae5.chunk.js.map": "/QuizWebsiteMui/static/js/498.6715cae5.chunk.js.map",
+    "703.c2a2eae2.chunk.js.map": "/QuizWebsiteMui/static/js/703.c2a2eae2.chunk.js.map",
+    "261.5f259dc1.chunk.js.map": "/QuizWebsiteMui/static/js/261.5f259dc1.chunk.js.map",
+    "787.68bbb5b0.chunk.js.map": "/QuizWebsiteMui/static/js/787.68bbb5b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.17bd64a1.js"
+  ]
+}
